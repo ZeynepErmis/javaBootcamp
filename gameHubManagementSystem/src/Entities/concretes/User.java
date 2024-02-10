@@ -1,4 +1,4 @@
-package Entities;
+package Entities.concretes;
 
 public class User {
     private int id;

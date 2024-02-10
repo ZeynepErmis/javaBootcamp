@@ -1,4 +1,4 @@
-package Entities;
+package Entities.concretes;
 
 public class Game {
 
